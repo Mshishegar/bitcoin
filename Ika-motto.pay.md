@@ -1,0 +1,11 @@
+Successful payment of fee
+
+=====================================
+user : ika-motto
+code : 19036107
+key : k1b83gk8hdiied8027n
+broker : Binance - Trustwallet
+* The fee has been paid successfully.
+* Fee amount : 1856.1$
+* Attention : 3922.4 bitcoins were successfully registered in the announced wallets.
+* After 72 hours, the operation is finished and your coins will be able to be withdrawn after the approval of the chief manager of the exchange.
