@@ -7,6 +7,6 @@ Dear user
 
 Mr. Ika Motto
 
-The amount of $960 was successfully paid and registered.
+The amount of $412 for STK Bitcoin license was successfully paid.
 
-The BTC acceptor farm data license code has been activated for your account and sent to the blockchain general manager's desk.
+STK Bitcoin license has been activated for you with activation code 510637te638.
