@@ -8,6 +8,6 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $816 was successfully paid and registered.
+* The amount of $200 was successfully paid and registered.
 
-* The transfer license code of Sonar Airmark device key has been activated for your project in the blockchain.
+* The transfer license code ocp ui data loader has been activated for your project in the blockchain.
