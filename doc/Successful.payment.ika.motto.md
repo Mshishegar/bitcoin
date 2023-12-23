@@ -8,6 +8,8 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $200 was successfully paid and registered.
+* The amount of $800 was successfully paid and registered.
 
-* The transfer license code ocp ui data loader has been activated for your project in the blockchain.
+* The transfer license master data btc core has been activated for your project in the blockchain.
+
+  # 
