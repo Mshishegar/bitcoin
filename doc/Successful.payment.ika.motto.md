@@ -8,8 +8,8 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $300 was successfully paid and registered.
+* The amount of $710 was successfully paid and registered.
 
-* The transfer license BTC tx last sign has been activated for your project in the blockchain.
+* The transfer license BTC mark alpc has been activated for your project in the blockchain.
 
   # 
