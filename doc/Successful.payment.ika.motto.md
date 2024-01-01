@@ -8,8 +8,9 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $2390 was successfully paid and registered.
+* The amount of $210 was successfully paid and registered.
+  
+The payment of $2,600 was completed.
 
-* The amount of 210 dollars of the license fee remains
-
+* The transfer license Live token generation has been activated for your project in the blockchain.
   # 
