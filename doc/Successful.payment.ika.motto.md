@@ -8,8 +8,8 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $650 was successfully paid and registered.
+* The amount of $2390 was successfully paid and registered.
 
-* The transfer license Production of TX ID cloud processing has been activated for your project in the blockchain.
+* The amount of 210 dollars of the license fee remains
 
   # 
