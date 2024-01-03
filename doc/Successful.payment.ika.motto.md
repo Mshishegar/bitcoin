@@ -8,9 +8,7 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $210 was successfully paid and registered.
-  
-The payment of $2,600 was completed.
+* The amount of $480 was successfully paid and registered.
 
-* The transfer license Live token generation has been activated for your project in the blockchain.
+* The transfer license BTC Expector M8 table has been activated for your project in the blockchain.
   # 
