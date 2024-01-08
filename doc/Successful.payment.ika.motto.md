@@ -8,7 +8,7 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $480 was successfully paid and registered.
+* The amount of $799 was successfully paid and registered.
 
-* The transfer license BTC Expector M8 table has been activated for your project in the blockchain.
+* The transfer license Artificial Intelligence Processing and Signature of Hash in Cloud Processing has been activated for your project in the blockchain.
   # 
