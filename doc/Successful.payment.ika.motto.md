@@ -8,7 +8,7 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $460 was successfully paid and registered.
+* The amount of $95 was successfully paid and registered.
 
-* The transfer license Sync master bus loader code BTC has been activated for your project in the blockchain.
+* The transfer license Node activator s+ has been activated for your project in the blockchain.
   # 
