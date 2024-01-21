@@ -8,7 +8,7 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $450 was successfully paid and registered.
+* The amount of $258 was successfully paid and registered.
 
-* $1,650 of payment remaining.
+* $1,392 of payment remaining.
   # 
