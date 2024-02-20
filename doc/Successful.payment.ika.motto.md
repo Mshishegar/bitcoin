@@ -8,8 +8,9 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $713 was successfully paid and registered.
+* The amount of $640 was successfully paid and registered.
+* Your temporary file number is 202420166301/ESQ.
 
-* Your payment has been completed and sent to the relevant authorities.
+  
   
   ##
