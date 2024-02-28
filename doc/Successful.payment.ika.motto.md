@@ -8,8 +8,8 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $150 was successfully paid and registered.
-* remaining amount: 2222$.
+* The amount of $120 was successfully paid and registered.
+* remaining amount: 2102$.
 
   
   
