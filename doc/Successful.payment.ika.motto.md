@@ -8,8 +8,8 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $17 was successfully paid and registered.
-* Your payment has been completed.
+* The amount of $1655 was successfully paid and registered.
+* For payment of government deposit number 20241890162280.
 
   
   
