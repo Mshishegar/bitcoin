@@ -8,8 +8,8 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $2000 was successfully paid and registered.
-*  Your remaining debt : $5400.
+* The amount of $2400 was successfully paid and registered.
+*  Your remaining debt : $3000.
 
   
   
