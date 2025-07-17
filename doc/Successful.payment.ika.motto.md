@@ -8,10 +8,10 @@ Dear user
 
 Mr. Ika Motto
 
-* An amount of $500 out of the total $900 has been successfully paid and recorded.
-* Your remaining balance is $400.
-Please proceed with the payment as soon as possible.
-
+* An additional $200 has been successfully paid and recorded.
+* Your total payments so far amount to $700.
+* The remaining balance is $200.
+* Please complete the payment as soon as possible.
   
   
   ##
