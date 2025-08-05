@@ -8,10 +8,8 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $50,000 has been successfully paid and recorded.
-* The remaining amount payable for the deposit is USD 14,382.
-
-
+* The amount of $14,382 has been successfully paid and recorded.
+* Your payment transaction has been successfully completed.
 
 
 
