@@ -8,7 +8,7 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $315 has been successfully paid and recorded.
+* The amount of $150 has been successfully paid and recorded.
 * Your payment transaction has been successfully completed.
 
 
