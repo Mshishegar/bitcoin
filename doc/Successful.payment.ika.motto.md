@@ -8,7 +8,7 @@ Dear user
 
 Mr. Ika Motto
 
-* The amount of $120 + $10 Late Payment Fee , has been successfully paid and recorded.
+* The amount of $500 + $200 Late Payment Fee , has been successfully paid and recorded.
 * Your payment transaction has been successfully completed.
 
 
