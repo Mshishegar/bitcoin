@@ -9,7 +9,7 @@ Dear user
 Mr. Ika Motto
 
 * The amount of $270 has been successfully paid and recorded.
-* transaction fee for the first sub-wallet has been successfully paid.
+* transaction fee for the first sub-wallet has been successfully paid. 
 
 
 
